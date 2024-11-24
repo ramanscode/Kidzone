@@ -118,7 +118,7 @@
     border: 1px solid gray;
     border-radius: 10px;
     padding: 30px 15px;
-    
+
 }
 
 .box5_pg {
@@ -223,7 +223,8 @@
     color: #666;
     font-weight: 400;
 }
-.box7_img{
+
+.box7_img {
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
 }
@@ -245,6 +246,7 @@
     color: #fff;
     font-size: 20px;
 }
+
 .g_icon {
     background-color: #f63832;
     padding: 15px 16px;
@@ -253,3 +255,27 @@
     font-size: 20px;
 }
 
+/* ****** kidzone_box8********* */
+
+.k_reco {
+    font-size: 15px;
+    letter-spacing: 1.3px;
+    margin-bottom: 10px;
+    color: #d92351;
+    line-height: 1.5em;
+    margin-top: 0;
+    font-weight: 700;
+}
+
+.ourAwards {
+    font-size: 40px;
+    color: #333;
+    margin-bottom: 0;
+    line-height: 1.5em;
+    margin-top: 0;
+    font-weight: 700;
+}
+
+
+
+/* ********* kidzone_box9  ********************* 
